@@ -67,14 +67,6 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
@@ -99,10 +91,6 @@ export const stackList = [
     name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
     name: "C",
   },
@@ -115,23 +103,51 @@ export const stackList = [
     name: "MySQL",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
-    name: "Bootstrap",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
-    name: "Material UI",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
     name: "Figma",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
   },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg",
+    name: "Android Studio",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg",
+    name: "Axios",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg",
+    name: "Tensorflow",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg",
+    name: "Jupyter",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg",
+    name: "Kaggle",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
+    name: "Pandas",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg",
+    name: "Jenkins",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg",
+    name: "Linux",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg",
+    name: "Kotlin",
+  },
+
+
+
+
 ];

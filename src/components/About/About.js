@@ -17,30 +17,39 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man-svgrepo-com.svg"
+            src="/profile.png"
             alt="man-svgrepo"
           />
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Fiqri Adam</strong>. I'm currently a Penultimate Information and Communication Technology Majoring in Information Security Undergraduate at the Singapore Insititute of Technology(SIT). 
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            I'm passionate about Full stack Development and Machine Learning.  I've completed modules including Secure Software Development, Machine Learning, Mobile Security, Web Security,  Integrative Team Project and Applied Cryptography
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
-              <div className="tagline2">
+            My true passion lies in the art of building websites and apps, where I immerse myself in the creative process of crafting personalized digital experiences. I’m committed to delivering the best possible user interactions, ensuring that every detail enhances the user’s journey. Alongside this, I’m deeply passionate about machine learning—exploring its potential to create intelligent systems that can learn, adapt, and improve over time.              
+            
+            </ScrollAnimation>
+
+            <br /><br />
+
+
+            <ScrollAnimation animateIn="fadeInLeft">
+            As I continue to grow and evolve in the tech world, I’m eager to take on new challenges and contribute to projects that push the boundaries of what’s possible. Let’s build the future together.
+            <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
             </ScrollAnimation>
+
+
             
 
             <Technologies>
