@@ -57,20 +57,23 @@ function About() {
             <div className="about-grid">
                 <div className="about-content">
                     {/* <FontAwesomeIcon icon={faReact} size="3x"/> */}
-                    <p>Hi! I'm <strong>Adam</strong>, a penultimate-year student pursuing a Bachelor of Engineering (Hons) in Information and Communication Technology (Information Security) at the Singapore Institute of Technology. 
-                       I’m passionate about the intersection of Machine Learning, Artificial Intelligence, and Cybersecurity, 
-                       as I believe these fields are shaping the future of technology.
+                    <p>Hi! I'm <strong>Adam</strong>, a final-year Information Security student at the Singapore Institute of Technology, 
+                    graduating in April 2026. I’m interested in the intersection of AI, data analytics, and cybersecurity, 
+                    and how these can be applied to solve real-world problems.
                     </p>
                     
-                    <p>Over the course of my studies, I’ve developed a strong foundation in various domains including Malware Analysis and Defence, Operation Security and Incident Management, Digital Forensics, Security Analytics, 
-                        Network Security, Secure Software Development, Mobile Security, Web Security, Machine Learning, Software Engineering, Embedded System, and Ethical Hacking. My academic projects have pushed me to explore and apply cutting-edge technologies, 
-                        such as designing deepfake detection systems and building anomaly detection models, which align with the current trends in the tech industry.
+                    <p>I have experience working with security data, building machine learning models, 
+                        and developing automation solutions to support analysis and decision-making. 
+                        My work includes projects in anomaly detection, deepfake analysis, and SIEM-based log analysis.
                     </p>
 
-                    <p>Outside of academics, I enjoy engaging in hobbies that spark creativity and problem-solving. 
-                        I have a knack for teaching and have mentored students in Python programming, robotics, and coding combat. 
-                        In my free time, I like to explore advancements in Generative AI, experiment with new tools, and keep up with the latest cybersecurity trends.
-                         When I’m not in front of my computer, you’ll find me gymming, trying out challenges on kaggle or experimenting with Raspberry Pi projects.
+                    <p>Through both academic and industry experience, 
+                        I have developed strong problem-solving and analytical skills, 
+                        with hands-on exposure to tools such as Elastic, Python, and machine learning frameworks.
+                    </p>
+
+                    <p>
+                    I am motivated to continuously learn and apply new technologies to build practical and impactful solutions.
                     </p>
 
                     {/* <div className="flex-chips">
