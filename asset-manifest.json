@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.19b9dcd4.css",
+    "main.js": "/Portfolio/static/js/main.9d3807da.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/NutriForge.png": "/Portfolio/static/media/NutriForge.a5cc75765f37930ec9c3.png",
+    "static/media/ITP.png": "/Portfolio/static/media/ITP.b456df5f5339773a56c5.png",
+    "static/media/RouteSav.png": "/Portfolio/static/media/RouteSav.929d973f53a2883f49ea.png",
+    "static/media/TicketingHuat.png": "/Portfolio/static/media/TicketingHuat.81da3f2cfc61ac28b75d.png",
+    "static/media/ForensicSecureUSB.png": "/Portfolio/static/media/ForensicSecureUSB.458c6dadc7360d83eadf.png",
+    "static/media/EnterpriseNetwork.png": "/Portfolio/static/media/EnterpriseNetwork.f3dcf259981c63102fbb.png",
+    "static/media/KiddyCCTVapp.png": "/Portfolio/static/media/KiddyCCTVapp.a4a08908273d19d3bb04.png",
+    "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/NetBot.png": "/Portfolio/static/media/NetBot.fbe38c0bd14a65bec020.png",
+    "static/media/profile.png": "/Portfolio/static/media/profile.fba5dbe59177a235f950.png",
+    "index.html": "/Portfolio/index.html",
+    "main.19b9dcd4.css.map": "/Portfolio/static/css/main.19b9dcd4.css.map",
+    "main.9d3807da.js.map": "/Portfolio/static/js/main.9d3807da.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b9dcd4.css",
+    "static/js/main.9d3807da.js"
+  ]
+}
